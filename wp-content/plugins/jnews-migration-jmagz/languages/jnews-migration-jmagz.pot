@@ -1,0 +1,71 @@
+# Copyright (C) 2022 JNews Migration Jmagz
+# This file is distributed under the same license as the JNews Migration Jmagz package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Migration Jmagz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-migration-jmagz/class.jnews-migration-jmagz-dashboard.php:60, wordpress/jnews-migration-jmagz/class.jnews-migration-jmagz-dashboard.php:61
+msgid "Migration - JMagz"
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/class.jnews-migration-jmagz.php:146
+msgid "Migration successful <strong>%1$s</strong> <a href=\"%2$s\" target=\"_blank\">view post</a>."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:10
+msgid "Content Migration"
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:17
+msgid "We notice <strong>JMagz Plugin</strong> still activate on your site. Please deactivate <strong>JMagz Plugin</strong> on this page <a href=\"%s\">here</a> to avoid some problem occurs."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:24
+msgid "We notice <strong>JPlugin</strong> still activate on your site. Please deactivate <strong>JPlugin</strong> on this page <a href=\"%s\">here</a> to avoid some problem occurs."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:31
+msgid "We notice you're not %1$s <strong>JNews Review Plugin</strong> yet. Please %2$s <strong>JNews Review Plugin</strong> on this page <a href=\"%3$s\">here</a>."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:36
+msgid "Migration Done. You can check migration log on each post below."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:40
+msgid "Migration Status"
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:45
+msgid "No post found."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:43
+msgid "%1$d post%2$s found and ready to migrate into <strong>JNews</strong>."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:56
+msgid "Processing..."
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:56
+msgid "Go To Post"
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:57
+msgid "Begin Migration"
+msgstr ""
+
+#: wordpress/jnews-migration-jmagz/template/migration-dashboard.php:57
+msgid "No Post Found"
+msgstr ""

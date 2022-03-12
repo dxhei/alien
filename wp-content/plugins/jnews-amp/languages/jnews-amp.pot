@@ -1,0 +1,233 @@
+# Copyright (C) 2022 JNews Amp
+# This file is distributed under the same license as the JNews Amp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Amp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-amp/amp-option.php:9
+msgid "Google Auto Advertisement"
+msgstr ""
+
+#: wordpress/jnews-amp/amp-option.php:18
+msgid "Enable Google Auto Advertisement"
+msgstr ""
+
+#: wordpress/jnews-amp/amp-option.php:19
+msgid "Enable Google auto advertisement on AMP pages."
+msgstr ""
+
+#: wordpress/jnews-amp/amp-option.php:28
+msgid "Google Ads Publisher ID"
+msgstr ""
+
+#: wordpress/jnews-amp/amp-option.php:29, wordpress/jnews-amp/class.jnews-amp-option.php:134
+msgid "Insert data-ad-client / google_ad_client content."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:51
+msgid "%s Advertisement"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:60
+msgid "Enable %s Advertisement"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:61
+msgid "Enable advertisement on %s."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:70
+msgid "%s : Advertisement type"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:71
+msgid "Choose which type of advertisement you want to use."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:74
+msgid "Google Ads"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:75
+msgid "Custom Ads"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:93
+msgid "%s : Random Ads Position"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:94
+msgid "Random on which paragraph ads will show."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:110
+msgid "%s : After Paragraph"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:111
+msgid "After which paragraph you want this advertisement to show."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:133
+msgid "%s : Publisher ID"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:155
+msgid "%s : Ad Slot ID"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:156
+msgid "Insert data-ad-slot / google_ad_slot content."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:177
+msgid "%s : Ads Size"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:178
+msgid "Choose ads size, recommended to use auto instead."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:201
+msgid "%s : Ad Code"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp-option.php:202
+msgid "Insert your custom ad code."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:127
+msgid "AMP GDPR Compliance"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:136
+msgid "Enable GDPR Compliance"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:137
+msgid "Enable this option to show GDPR compliance notice on the AMP page."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:144, wordpress/jnews-amp/class.jnews-amp.php:146, wordpress/jnews-amp/class.jnews-amp.php:286
+msgid "Headline"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:147
+msgid "Insert text for headline notice."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:161, wordpress/jnews-amp/class.jnews-amp.php:287
+msgid "This is an important message requiring you to make a choice if you're based in the EU."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:163
+msgid "Notice Content"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:164
+msgid "Insert text for the notice content."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:178, wordpress/jnews-amp/class.jnews-amp.php:288
+msgid "Accept"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:180
+msgid "Accept Text"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:181
+msgid "Insert text for accept button."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:195, wordpress/jnews-amp/class.jnews-amp.php:289
+msgid "Reject"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:197
+msgid "Reject Text"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:198
+msgid "Insert text for reject button."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:212, wordpress/jnews-amp/class.jnews-amp.php:290
+msgid "Update Consent"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:214
+msgid "Setting Text"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:215
+msgid "Insert text for setting button."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:230
+msgid "Privacy Policy"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:231
+msgid "Insert text for privacy policy link."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:246
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:247
+msgid "Insert url for privacy policy link."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:263
+msgid "Load FontAwesome Locally"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:264
+msgid "Enable this option to force load FontAwesome locally."
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:427
+msgid "AMP Ads"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:830, wordpress/jnews-amp/template/meta-author.php:16
+msgid "By"
+msgstr ""
+
+#: wordpress/jnews-amp/class.jnews-amp.php:840
+msgid "Related Content"
+msgstr ""
+
+#: wordpress/jnews-amp/template/footer.php:3
+msgid "Back to top"
+msgstr ""
+
+#: wordpress/jnews-amp/template/meta-taxonomy.php:1
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: wordpress/jnews-amp/template/meta-taxonomy.php:4
+msgid "Categories:"
+msgstr ""
+
+#: wordpress/jnews-amp/template/meta-taxonomy.php:9
+msgctxt "Used between list items, there is a space after the comma."
+msgid ""
+msgstr ""
+
+#: wordpress/jnews-amp/template/meta-taxonomy.php:12
+msgid "Tags:"
+msgstr ""

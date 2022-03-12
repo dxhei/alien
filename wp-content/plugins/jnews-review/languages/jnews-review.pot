@@ -1,0 +1,443 @@
+# Copyright (C) 2022 JNews Review
+# This file is distributed under the same license as the JNews Review package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Review\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-review/class.jnews-review-backend.php:46
+msgid "Standard"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-backend.php:44
+msgid "Post Review"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:159, wordpress/jnews-review/class.jnews-review-frontend.php:208, wordpress/jnews-review/class.jnews-review-frontend.php:264, wordpress/jnews-review/class.jnews-review-shortcode-view.php:274, wordpress/jnews-review/class.jnews-review-shortcode-view.php:314, wordpress/jnews-review/class.jnews-review-shortcode-view.php:363
+msgid "Review Breakdown"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:304, wordpress/jnews-review/class.jnews-review-frontend.php:329, wordpress/jnews-review/class.jnews-review-frontend.php:355, wordpress/jnews-review/class.jnews-review-shortcode-view.php:114, wordpress/jnews-review/class.jnews-review-shortcode-view.php:133, wordpress/jnews-review/class.jnews-review-shortcode-view.php:153
+msgid "Score"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:297, wordpress/jnews-review/class.jnews-review-frontend.php:322, wordpress/jnews-review/class.jnews-review-frontend.php:348
+msgid "Average Score"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:380, wordpress/jnews-review/class.jnews-review-shortcode-view.php:195
+msgid "PROS"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:403, wordpress/jnews-review/class.jnews-review-shortcode-view.php:218
+msgid "CONS"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:426
+msgid "VIEW"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:447, wordpress/jnews-review/class.jnews-review-frontend.php:532, wordpress/jnews-review/class.jnews-review-shortcode-view.php:445
+msgid "%s DEALS"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:486, wordpress/jnews-review/class.jnews-review-frontend.php:519, wordpress/jnews-review/class.jnews-review-shortcode-view.php:399
+msgid "Buy Now"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:533, wordpress/jnews-review/class.jnews-review-shortcode-view.php:446
+msgid "We collect information from many stores for best price available"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:536, wordpress/jnews-review/class.jnews-review-frontend.php:517, wordpress/jnews-review/class.jnews-review-module-view.php:186, wordpress/jnews-review/class.jnews-review-shortcode-view.php:449
+msgid "Best Price"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-frontend.php:576
+msgid "The Review"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:17
+msgid "JNews : Review List Widget"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:19
+msgid "Review List for JNews"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:32, wordpress/jnews-review/class.jnews-review-widget.php:33
+msgid "Title"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:33, wordpress/jnews-review/class.jnews-review-widget.php:34
+msgid "Title on widget header."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:38
+msgid "Total limit post"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:39
+msgid "Set the number of post shown on widget."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-list-widget.php:56, wordpress/jnews-review/class.jnews-review-widget.php:69
+msgid "General Setting"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:13
+msgid "JNews - Review Search"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:17, wordpress/jnews-review/class.jnews-review-shortcode-option.php:17
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:33
+msgid "Choose filterable Category"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:34
+msgid "Choose which category you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:40
+msgid "Number of Post"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:41
+msgid "Show number of review on this module."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:50
+msgid "Excerpt Length"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:51
+msgid "Set word length of excerpt on post block."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-option.php:52
+msgid "Content Setting"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:10
+msgid "All Category"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:35
+msgid "Newest First"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:36
+msgid "Oldest First"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:37
+msgid "Highest Price"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:38
+msgid "Lowest Price"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:39
+msgid "Highest Rating"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:40
+msgid "Lowest Rating"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:190
+msgid "Available at"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:220
+msgid "No review found"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-module-view.php:239
+msgid "Search Review..."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-option.php:46
+msgid "Review"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:13
+msgid "JNews - Post Review"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:33
+msgid "Choose Post's Review"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:34
+msgid "Enter post title or id to show it's review on this element.<br>If you search by id, first type the post id and then press enter to add it on the list."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:40
+msgid "Show Rating *"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:41
+msgid "Show post review rating."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:46
+msgid "Show Pros and Cons *"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:47
+msgid "Show Pros and Cons of post review."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:52
+msgid "Show Review Breakdown *"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:53
+msgid "Show post review breakdown."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:58
+msgid "Show Price *"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:59
+msgid "* Make sure the post you selected above is a review post and have the review attributes already set, otherwise it will show nothing even if checked."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-shortcode-option.php:60
+msgid "Show post review prices."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:18
+msgid "JNews : Single Post Review Widget"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:20
+msgid "Single Post Review widget for JNews"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:39
+msgid "Disable Rating Point"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:40
+msgid "hide rating point on this widget."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:45
+msgid "Show summary"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:46
+msgid "show review summary on this widget."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:51
+msgid "Hide Pro & Cons"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:52
+msgid "hide review summary on this widget."
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:57
+msgid "Hide Price for Affiliate"
+msgstr ""
+
+#: wordpress/jnews-review/class.jnews-review-widget.php:58
+msgid "hide product price on this widget"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:11
+msgid "Text in front of price text"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:12, wordpress/jnews-review/review-option.php:46
+msgid "You can use this as your currency text."
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:28
+msgid "Price Currency"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:29
+msgid "Insert the price currency. This info will be used on the review schema."
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:45
+msgid "Text behind of price text"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:62
+msgid "Price float"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:63
+msgid "Show price float box on post content."
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:66
+msgid "Hide"
+msgstr ""
+
+#: wordpress/jnews-review/review-option.php:67
+msgid "Show"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:206, wordpress/jnews-review/metabox/post-review-setting.php:18
+msgid "Review Setting"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:213, wordpress/jnews-review/metabox/post-review-setting.php:75
+msgid "Review Pros and Cons"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:220, wordpress/jnews-review/metabox/post-review-setting.php:116, wordpress/jnews-review/metabox/post-review-setting.php:124
+msgid "Review Rating"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:227, wordpress/jnews-review/metabox/post-review-setting.php:151
+msgid "Product Price"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:23
+msgid "Enable Review"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:24
+msgid "Check this option to enable review on this post."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:30
+msgid "Review Type"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:31
+msgid "Choose your review type."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:36
+msgid "Point"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:40
+msgid "Star"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:44
+msgid "Percentage"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:52
+msgid "Review Product Name"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:53
+msgid "Your review product name."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:59
+msgid "Review Summary"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:60
+msgid "Insert your review summary."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:66
+msgid "Brand Name"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:67
+msgid "Insert the brand of the product."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:83
+msgid "What's good about this product"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:88
+msgid "Good"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:89
+msgid "Insert the good thing about this product."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:99
+msgid "What's bad about this product"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:104
+msgid "Bad"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:105
+msgid "Insert the bad thing about this product."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:129
+msgid "Rating Text"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:130
+msgid "Insert text for rating label."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:135
+msgid "Rating Number"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:136
+msgid "Set rating value."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:159
+msgid "This Product Price"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:164
+msgid "Where to Buy"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:165
+msgid "Ex : Amazon, Ebay."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:171
+msgid "Price"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:172
+msgid "Insert product price."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:178
+msgid "Shop Link"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:179
+msgid "You can also insert your referral link."
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:184
+msgid "Shop Logo Icon"
+msgstr ""
+
+#: wordpress/jnews-review/metabox/post-review-setting.php:185
+msgid "Upload this shop logo / icon 16x16 pixel"
+msgstr ""

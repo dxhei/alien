@@ -1,0 +1,399 @@
+# Copyright (C) 2022 JNews Subscribe To Download
+# This file is distributed under the same license as the JNews Subscribe To Download package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Subscribe To Download\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:53
+msgid "Download Settings"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:71
+msgid "New message from %s"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:79
+msgid "File URL"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:80
+msgid "Set a link to download file"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:85, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:96, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:104, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:113, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:121, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:130
+msgid "email"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:86
+msgid "Send As"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:88
+msgid "Select the content type that will be used for the email content."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:90
+msgid "HTML"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:91
+msgid "Plain Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:98
+msgid "Subject"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:99
+msgid "Set the email subject"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:107
+msgid "Message"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:108
+msgid "Want to customize Message fields? Please read more about the shortcode on our <a href=\"%s\" target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:115
+msgid "From Email"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:116
+msgid "Set the sender address"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:123
+msgid "From Name"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:124
+msgid "Set the sender name"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:131
+msgid "Reply-To"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:132
+msgid "Set Reply-To address"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:138, wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:145
+msgid "mailchimp"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:139
+msgid "API Key"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:140
+msgid "Use this field to set the API Key for the current form. Please click <a href=\"%s\" target=\"_blank\">here</a> to know about API Key ."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:146
+msgid "Audience ID"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:147
+msgid "Use this field to set the Audience ID. Please click <a href=\"%s\" target=\"_blank\">here</a> about how to know your Audience ID ."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:171
+msgid "File Segment"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:176, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:114
+msgid "Email"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-meta-box.php:181, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:115
+msgid "MailChimp"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:50
+msgid "Add Download Files"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:51
+msgid "Download File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:52
+msgid "Download Files"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:53
+msgid "Add New"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:54
+msgid "Add New File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:55
+msgid "Edit File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:56
+msgid "New File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:57
+msgid "All Download Files"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:58
+msgid "View File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:59
+msgid "Search File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:60
+msgid "No File found"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:61
+msgid "No File in Trash"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:63
+msgid "File Image"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:64
+msgid "Set File Image"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:65
+msgid "Remove File Image"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:66
+msgid "Use as File Image"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:67
+msgid "File Attributes"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:68
+msgid "Filter Files list"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:69
+msgid "Files list navigation"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe-post-type.php:70
+msgid "File list"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe.php:103
+msgid "There was an error. Please try again later"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe.php:182
+msgid "SMTP setup may not right. This Message is not visible for site visitors"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe.php:172
+msgid "Thank you! Download link was sent to your email"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe.php:227
+msgid "Thank you for subscribe! Download link was sent to your email"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/class.jnews-subscribe.php:217
+msgid "server_error, please try again later. This Message is not visible for site visitors"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:15
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:23
+msgid "JNews - Subscribe to Download"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:36
+msgid "Download Type"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:37
+msgid "Choose which download type you want to use."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:40
+msgid "Button Download"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:41
+msgid "Form Subscribe"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:49
+msgid "Button Download Icon"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:50, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:161
+msgid "Choose which icon you want to use on the button."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:66
+msgid "Button Download Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:67
+msgid "Input text you want to use as download button text."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:79
+msgid "Select File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:80
+msgid "Select your download file"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:92
+msgid "Choose File"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:110
+msgid "Actions After Submit"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:111
+msgid "Add actions that will be performed after a visitor submits the form (e.g. send an email notification). Choosing an action will add the chosen file setting."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:123, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:141, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:150, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:159, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:173, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:182, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:192, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:201, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:214
+msgid "Form Setting"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:124
+msgid "Heading Type"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:125
+msgid "Choose which heading type you want to use."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:128
+msgid "H1"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:129
+msgid "H2"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:130
+msgid "H3"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:131
+msgid "H4"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:132
+msgid "H5"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:133
+msgid "H6"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:142
+msgid "Heading Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:143
+msgid "Input text you want to use as heading."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:151
+msgid "Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:152
+msgid "Input text you want to use as a description."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:160
+msgid "Button Icon"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:174
+msgid "Button Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:176
+msgid "Input text you want to use as button text."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:183
+msgid "Placeholder Text"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:185
+msgid "Input placeholder text for input box."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:193
+msgid "Enable Agreement"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:194
+msgid "Enable this option to showing up the Agreement checkbox."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:202
+msgid "Agree on Terms"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:203
+msgid "Set the Agree Terms text."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:215
+msgid "Agree on Subscription"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form-option.php:216
+msgid "Set the Agree Subscription Text."
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:80
+msgid "<%1$s class=\"jeg_subscribe_heading\">%2$s</%1$s>"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:81
+msgid "<p>%1$s</p>"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:82, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:85
+msgid "<i class=\"fa %1$s\"></i>"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:83, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:84, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:86, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:88, wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:89
+msgid "%1$s"
+msgstr ""
+
+#: wordpress/jnews-subscribe-to-download/class/Module/Element/class.jnews-subscribe-form.php:114
+msgid "<div class=\"bottom_links clearfix\">%1$s %2$s</div>"
+msgstr ""

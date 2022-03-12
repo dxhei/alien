@@ -1,0 +1,816 @@
+# Copyright (C) 2022 JNews Pay Writer
+# This file is distributed under the same license as the JNews Pay Writer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Pay Writer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-pay-writer/template/post-stats-earning.php:34
+msgid "Looks like your site's activity is a little low right now.<br>Spread the word and come back later!"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats-earning.php:26
+msgid "View Post"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:13, wordpress/jnews-pay-writer/include/class/class-helper.php:65
+msgid "Today"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:14
+msgid "24H"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:15
+msgid "7D"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:16
+msgid "30D"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:17, wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:232
+msgid "Custom"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:29
+msgid "Time Range"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:30
+msgid "Date Range"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:44
+msgid "Minute(s)"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:45
+msgid "Hour(s)"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:46
+msgid "Day(s)"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:62
+msgid "To"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/template/post-stats.php:74
+msgid "Posts"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:66
+msgid "Clear"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:171
+msgid "Australian dollar - AUD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:172
+msgid "Brazilian real - BRL"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:173
+msgid "Canadian dollar - CAD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:174
+msgid "Chinese Renmenbi - CNY"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:175
+msgid "Czech koruna - CZK"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:176
+msgid "Danish krone - DKK"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:177
+msgid "Euro - EUR"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:178
+msgid "Hong Kong dollar - HKD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:179
+msgid "Hungarian forint - HUF"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:180
+msgid "Israeli new shekel - ILS"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:181
+msgid "Japanese yen - JPY"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:182
+msgid "Malaysian ringgit - MYR"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:183
+msgid "Mexican peso - MXN"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:184
+msgid "New Taiwan dollar - TWD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:185
+msgid "New Zealand dollar - NZD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:186
+msgid "Norwegian krone - NOK"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:187
+msgid "Philippine peso - PHP"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:188
+msgid "Polish złoty - PLN"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:189
+msgid "Pound sterling - GBP"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:190
+msgid "Russian ruble - RUB"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:191
+msgid "Singapore dollar - SGD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:192
+msgid "Swedish krona - SEK"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:193
+msgid "Swiss franc - CHF"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:194
+msgid "Thai baht - THB"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-helper.php:195
+msgid "United States dollar - USD"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-template.php:283
+msgid "%s earning"
+msgid_plural "%s earnings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wordpress/jnews-pay-writer/include/class/class-template.php:323
+msgid "Estimated earnings"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/class-template.php:373
+msgid "Post Earning Stats"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/author/class-backend-option.php:124
+msgid "JNews Paypal Credential"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/author/class-backend-option.php:138, wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:390, wordpress/jnews-pay-writer/include/class/donation/class-frontend-option.php:91
+msgid "Paypal Account"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/author/class-backend-option.php:139
+msgid "Please enter a valid Paypal account Id or Paypal email"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/class-customizer.php:76
+msgid "JNews : Pay Writer Option"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/class-customizer.php:77
+msgid "Pay Writer Options"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/class-customizer.php:89
+msgid "Donation Setting"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/class-customizer.php:97
+msgid "Payment Setting"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:217
+msgid "Displayed data is cached. You may have to wait 24 hours for updated data."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:227
+msgid "This Month"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:228
+msgid "Last Month"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:229
+msgid "This Year"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:230
+msgid "This Week"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:231
+msgid "All Time"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:249
+msgid "%1$s %3$sTo%4$s %2$s"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:252
+msgid "Apply"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:254, wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:254
+msgid "Get current view permalink"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:315, wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:316
+msgid "Pay Writer"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:327, wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:328, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history-detail.php:7, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history.php:7, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-stats.php:7
+msgid "Stats"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:344, wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:345
+msgid "Customizer Setting"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-dashboard.php:369
+msgid "Please activate JNews Theme"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:68, wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:150
+msgid "Your query resulted in an empty result. Try to select a wider time range!"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:385
+msgid "No posts reach the threshold."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:389
+msgid "Author Name"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:391
+msgid "Written posts"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:398, wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:349
+msgid "Basic"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:399, wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:350
+msgid "Total Paid"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:400, wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:351
+msgid "Unpaid"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:341
+msgid "Title"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:342
+msgid "Pub. Date"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:345
+msgid "Words"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/class-generate-stats.php:347
+msgid "Visits"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/donation/class-frontend-option.php:72
+msgid "Enable Donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/donation/class-frontend-option.php:80
+msgid "Check this option to enable donation to this post"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/donation/class-frontend-option.php:92
+msgid "Insert Your Paypal Account"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-donation.php:40
+msgid "Donate"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-donation.php:48
+msgid "Donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-donation.php:51, wordpress/jnews-pay-writer/include/class/element/class-jnews-donation.php:54
+msgid "Buy me a coffee"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:29
+msgid "JNews - Donation Element"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:33
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:41
+msgid "Paypal account"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:42
+msgid "Insert paypal account here"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:49, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:44
+msgid "Donation Currency"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:50
+msgid "Currency allowed for donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:57
+msgid "Donation Button Text"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:58, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:56
+msgid "Configure text displayed in the donation element"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:65
+msgid "Override Donation Button Color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:66
+msgid "Overrides post donation button color."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:73
+msgid "Button Text Color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:74
+msgid "Donation Button Text color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:85
+msgid "Button Color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:86
+msgid "Donation button color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:98
+msgid "Donation Widget title"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:99, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:120
+msgid "Configure title displayed in the donation widget"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:106, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:136
+msgid "Donation Widget Description"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:107
+msgid "Displays description text in the donation widget"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:114, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:153
+msgid "Checkout Description"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:115, wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:154
+msgid "Displays description text at the donation checkout page"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:122
+msgid "Enable fix amount donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:123
+msgid "By enabling this option, readers can only make a donation of a predetermined amount"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:129
+msgid "Fix amount donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/element/class-jnews-element-donation-option.php:130
+msgid "Determine the fix donation amount"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/metabox/class-metabox.php:61
+msgid "Enable post donation setting"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/metabox/class-metabox.php:62
+msgid "Check this option to let your viewer donate to this post"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/metabox/class-metabox.php:54
+msgid "Disable post donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/metabox/class-metabox.php:55
+msgid "Disable donation on this post"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/module/class-donation-module.php:219
+msgid "JNews - Donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:16
+msgid "Donation on All Posts"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:17
+msgid "Enable donation on all posts"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:26
+msgid "Author Donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:27
+msgid "Enabling this option will grant the author to choose wheter to enable the donation option on their posts. Overrides `Donation on All Post` option"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:45
+msgid "Currency allowed for post donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:55
+msgid "Donation Element Text"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:65
+msgid "Donation Element Type"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:66
+msgid "Choose donation element type"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:79
+msgid "Override Donation Icon Color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:80
+msgid "Overrides post donation meta icon color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:97
+msgid "Donation Icon Color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:98
+msgid "Choose color for donation icon color"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:119
+msgid "Donation Widget Title"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:137
+msgid "Displays description text at the donation widget"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:163
+msgid "Fixed Donation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:164
+msgid "Enabling this option will strict donors to donate the predetermined amount"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/donation-option.php:172
+msgid "Fixed Donation amount"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:9
+msgid "Standard Payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:10
+msgid "View Payout ( Need JNews - View Counter )"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:11
+msgid "Word Payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:14, wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:229
+msgid "View Payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:20
+msgid "PayPal Settings"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:29
+msgid "Sandbox Mode"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:30
+msgid "Check this option if you are using Sandbox APP credentials"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:39
+msgid "PayPal APP Client ID"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:40
+msgid "Your PayPal app Client ID"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:49
+msgid "PayPal APP Client Secret"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:50
+msgid "Your PayPal app Client Secret"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:59
+msgid "Receiver Email"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:60
+msgid "Submit the PayPal/Sandbox email address. Add the following webhook endpoint <strong style=\"background-color:#ddd;\">&nbsp;%s&nbsp;</strong> to your <a href=\"https://www.paypal.com/cgi-bin/customerprofileweb?cmd=_profile-ipn-notify\" target=\"_blank\">Instant Payment Notifications Settings</a>"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:69
+msgid "Forward IPN Response"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:70
+msgid "Enable it if there are other plugins that need IPN response from PayPal"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:79
+msgid "Forward IPN Urls"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:80
+msgid "Please provide the valid IPN request URL"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:84
+msgid "IPN URL"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:90
+msgid "URL"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:91
+msgid "Please provide your validate IPN request URL."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:110
+msgid "Payout Subject"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:111
+msgid "Subject for the payout message"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:120
+msgid "Payout Message"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:121
+msgid "Message for the content of the payout message"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:127
+msgid "General Settings"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:136
+msgid "Payout Currency"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:137
+msgid "Choose the currency of the payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:147
+msgid "Payout Parameter"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:148
+msgid "Select payout parameter to be calculated in payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:174
+msgid "Payout Limit"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:175
+msgid "Set the maximum payout amount for the receiver (0 means unlimited)"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:195
+msgid "Standard Payout Option"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:204
+msgid "Minimum Post Payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:205
+msgid "Adjust minimum payout amount for each post. Each post will cost at least the value configured."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:220
+msgid "View Count Payout Option"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:230
+msgid "Adjust the payout amount for each view"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:245
+msgid "Minimum View Count"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:246
+msgid "Set the minimum views needed to be eligible for view payout"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:258
+msgid "Word Payout Option"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:268
+msgid "Word Payout Rate"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:269
+msgid "Set the word rate. The rate would be applied if the if the minimum word requirement is achieved."
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:283
+msgid "Minimum Word Count"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/customizer/options/payment-option.php:284
+msgid "Set the minimum word count that need to be achieved before the rate can be applied"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:134, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:192
+msgid "Go to detailed view"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:208, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:24
+msgid "Pay"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:209
+msgid "Manual Pay"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:210
+msgid "Payment History"
+msgstr ""
+
+#. translators: %s: Number of items.
+#. translators: %s: Number of items.
+#. translators: %s: Number of items.
+#. translators: %s: Number of items.
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:265, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:232, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:224, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:267
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:307, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:274, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:266, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:309
+msgid "First page"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:318, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:285, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:277, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:320
+msgid "Previous page"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:329, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:325, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:296, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:292, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:288, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:284, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:331, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:327
+msgid "Current Page"
+msgstr ""
+
+#. translators: 1: Current page, 2: Total pages.
+#. translators: 1: Current page, 2: Total pages.
+#. translators: 1: Current page, 2: Total pages.
+#. translators: 1: Current page, 2: Total pages.
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:337, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:304, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:296, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:339
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:348, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:315, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:307, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:350
+msgid "Next page"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-author.php:359, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history-detail.php:326, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-history.php:318, wordpress/jnews-pay-writer/include/class/dashboard/template/class-list-post.php:361
+msgid "Last page"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history-detail.php:11, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history.php:11, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-stats.php:11
+msgid "General"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history-detail.php:13, wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payment-history.php:13
+msgid "Showing Payment History for"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:13
+msgid "Payout Confirmation"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:16
+msgid "Payout Detail"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:18
+msgid "Recipient : "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:19
+msgid "Address : "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:20
+msgid "Total : "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:24
+msgid "Cancel"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:32
+msgid "Payout Result"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:40
+msgid "Address: "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:46
+msgid "Amount: "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:47
+msgid "Fee: "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-payout.php:48
+msgid "Error: "
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-stats-overall.php:9
+msgid "Summary"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-stats-overall.php:12
+msgid "Total displayed posts :"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/dashboard/template/dashboard-stats-overall.php:16
+msgid "Total displayed payment :"
+msgstr ""
+
+#: wordpress/jnews-pay-writer/include/class/util/paypal/class-paypal-payout.php:380
+msgid "Items is null, Please make sure user has been set their paypal account or they have unpaid payment"
+msgstr ""

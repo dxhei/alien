@@ -1,0 +1,123 @@
+# Copyright (C) 2022 JNews Push Notification
+# This file is distributed under the same license as the JNews Push Notification package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Push Notification\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:9
+msgid "JNews - Element"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:17, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:21
+msgid "JNews - Push Notification"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:28, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:39, wordpress/jnews-push-notification/push-notification-option.php:55, wordpress/jnews-push-notification/push-notification-option.php:191
+msgid "Subscribe Description"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:29, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:40, wordpress/jnews-push-notification/push-notification-option.php:56, wordpress/jnews-push-notification/push-notification-option.php:192
+msgid "You may use standard HTML tags and attributes for subscribe description."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:35, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:45, wordpress/jnews-push-notification/push-notification-option.php:82, wordpress/jnews-push-notification/push-notification-option.php:218
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:36, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:46, wordpress/jnews-push-notification/push-notification-option.php:83, wordpress/jnews-push-notification/push-notification-option.php:219
+msgid "Insert text for subscribe button."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:42, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:51, wordpress/jnews-push-notification/push-notification-option.php:109, wordpress/jnews-push-notification/push-notification-option.php:245
+msgid "Unsubscribe Button Text"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:43, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:52, wordpress/jnews-push-notification/push-notification-option.php:110, wordpress/jnews-push-notification/push-notification-option.php:246
+msgid "Insert text for unsubscribe button."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:49, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:57, wordpress/jnews-push-notification/push-notification-option.php:136, wordpress/jnews-push-notification/push-notification-option.php:272
+msgid "Processing Button Text"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-option.php:50, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:58, wordpress/jnews-push-notification/push-notification-option.php:137, wordpress/jnews-push-notification/push-notification-option.php:273
+msgid "Insert text for processing button."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-view.php:31, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:189, wordpress/jnews-push-notification/class.jnews-push-notification.php:99, wordpress/jnews-push-notification/class.jnews-push-notification.php:150
+msgid "Plugin Install"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-module-view.php:31, wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:189
+msgid "Subscribe Push Notification need OneSignal plugin to be installed"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-option.php:45
+msgid "Push Notification"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:23
+msgid "Push Notification for JNews"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:33
+msgid "Title"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:34
+msgid "Title on widget header."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:69
+msgid "General Setting"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:162
+msgid "Unsubscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification-widget.php:166
+msgid "Processing . . ."
+msgstr ""
+
+#: wordpress/jnews-push-notification/class.jnews-push-notification.php:99, wordpress/jnews-push-notification/class.jnews-push-notification.php:150
+msgid "Subscribe Push Notification need OneSignal plugin to be installed."
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:25
+msgid "Single Post Subscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:35
+msgid "Enable Post Subscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:36
+msgid "Enable subscribe form on each single post."
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:161
+msgid "Single Category Subscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:171
+msgid "Enable Category Subscribe"
+msgstr ""
+
+#: wordpress/jnews-push-notification/push-notification-option.php:172
+msgid "Enable subscribe form on each category page."
+msgstr ""

@@ -1,0 +1,998 @@
+# Copyright (C) 2022 JNews Podcast
+# This file is distributed under the same license as the JNews Podcast package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Podcast\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-podcast/include/helper.php:32, wordpress/jnews-podcast/include/helper.php:40, wordpress/jnews-podcast/include/fragment/podcast/podcast-option.php:9
+msgid "Subscribe"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:32, wordpress/jnews-podcast/include/helper.php:107, wordpress/jnews-podcast/include/helper.php:115, wordpress/jnews-podcast/include/class/player/class-player.php:95
+msgid "Play"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:55, wordpress/jnews-podcast/include/helper.php:87
+msgid "Add to Queue"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:175
+msgid "Facebook"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:180
+msgid "Twitter"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:185
+msgid "Google+"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:190
+msgid "Linked In"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:195
+msgid "Pinterest"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:200
+msgid "Tumblr"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:205
+msgid "StumbleUpon"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:210
+msgid "WhatsApp"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:215
+msgid "E-mail"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:220
+msgid "VK"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:225
+msgid "Reddit"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:230, wordpress/jnews-podcast/include/helper.php:235
+msgid "WeChat"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:240
+msgid "Telegram"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:245
+msgid "Line"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:250
+msgid "Hatena"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:256
+msgid "QR Code"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:264
+msgid "Share"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:616
+msgid "hr"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:617
+msgid "min"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:625
+msgid "sec"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/helper.php:994
+msgid "None"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/class-init.php:153
+msgid "Added to Queue"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/class-init.php:154
+msgid "There's something wrong"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/category/class-podcast-option-category.php:32, wordpress/jnews-podcast/include/class/series/class-option-series.php:58
+msgid "Media Settings"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/category/class-podcast-option-category.php:58, wordpress/jnews-podcast/include/class/series/class-option-series.php:84
+msgid "Image"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:76
+msgid "Single Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:82
+msgid "Podcast Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:188
+msgid "JNews : Podcast Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:189
+msgid "JNews podcast setting."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:202
+msgid "Podcast General Settings"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:210
+msgid "Podcast Template & Layout Settings"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:218
+msgid "Podcast Category Template Settings"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/class-podcast-customizer.php:226
+msgid "PowerPress Settings"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:37, wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:10, wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:18, wordpress/jnews-podcast/include/class/series/class-series.php:606, wordpress/jnews-podcast/include/class/series/class-series.php:607, wordpress/jnews-podcast/include/class/series/class-series.php:620
+msgid "Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:45, wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:44
+msgid "Activate License"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:48, wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:47
+msgid ""
+"<span style=\"display: block;\">Please activate your copy of JNews to unlock this feature. Click button bellow to activate:</span>\n"
+"						<span class=\"jnews-notice-button\">\n"
+"							<a href=\"%s\" class=\"button-primary jnews_customizer_activate_license\">Activate Now</a>\n"
+"						</span>"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-podcast-series.php:19
+msgid "You can search the post series by <strong>inputting the series name</strong>, clicking search result, and you will have your post series.<br>"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:16
+msgid "Podcast Post"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:17
+msgid "Enable podcast post"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:22
+msgid "Duration"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:23
+msgid "Human-read time value, ex. mm:ss."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:28
+msgid "Media URL"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/metabox/post-single-podcast.php:29
+msgid "Fill this option with the media url."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/class-podcast-module.php:236, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:25
+msgid "JNews - Podcast"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:94
+msgid "Previous"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:96
+msgid "Pause"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:97
+msgid "Next"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:99, wordpress/jnews-podcast/include/class/player/class-player.php:100
+msgid "Shuffle"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:102, wordpress/jnews-podcast/include/class/player/class-player.php:103
+msgid "Repeat"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:142
+msgid "Toggle Player"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:148
+msgid "Toggle PlayList"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:156
+msgid "Queue"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:165
+msgid "Mute"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:166
+msgid "Unmute"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/player/class-player.php:171
+msgid "Volume"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-option-series.php:90
+msgid "Default Podcast Image"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:104
+msgid "Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:608
+msgid "Search Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:609
+msgid "Popular Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:610
+msgid "All Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:613
+msgid "Edit Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:614
+msgid "Update Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:615
+msgid "Add Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:616
+msgid "New Podcast Series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:617
+msgid "Separate podcast series  with commas"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:618
+msgid "Add or remove podcast series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/series/class-series.php:619
+msgid "Choose from the most used podcast series"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/fragment/podcast/podcast-content.php:25
+msgid "List Episodes"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/fragment/podcast/podcast-meta.php:30
+msgid "Created by"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/fragment/podcast/podcast-meta.php:37, wordpress/jnews-podcast/include/class/module/element/podcast/class.jnews-podcast-block4-view.php:66
+msgid "Episodes"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:25
+msgid "Podcast Category Page Layout"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:33
+msgid "Page Layout"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:34
+msgid "Choose your page layout."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:57
+msgid "Sidebar"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:58
+msgid "Choose your sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:81
+msgid "Second Sidebar"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:82
+msgid "Choose your second sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:105
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:106
+msgid "Enable sticky sidebar on result page."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:127
+msgid "Podcast Category Content"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:135
+msgid "Content Layout"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:136
+msgid "Choose your page content layout."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:161
+msgid "Posts Per Page"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:162
+msgid "Number of posts per page."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:190
+msgid "Enable Boxed"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:191
+msgid "This option will turn the module into boxed."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:214
+msgid "Enable Shadow"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:215
+msgid "Enable shadow on the module template."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:245, wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:256
+msgid "Excerpt Length"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:246, wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:257
+msgid "Set the word length of excerpt on post."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:274
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:275
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:278
+msgid "Load More"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/archive-series-category-settings.php:279
+msgid "Auto Load on Scroll"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:8
+msgid "General Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:17
+msgid "Override Default Category WordPress to Podcast Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:18
+msgid "Enable this feature will override default category WordPress to podcast category."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:27
+msgid "Enable Podcast Player"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:28
+msgid "Enable this feature will show podcast player."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:37
+msgid "Enable Global Player"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/general-settings.php:38
+msgid "Enable this feature will show podcast player globaly."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:75
+msgid "Attention"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:77
+msgid ""
+"<ul>\n"
+"				<li>Please activate Blubrry PowerPress to see the option</li>\n"
+"			</ul>"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:9
+msgid "PowerPress Import Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:18
+msgid "Override Podcast Terms Detail"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:19
+msgid "Enable this feature will make PowerPress override podcast terms detail when importing podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:31
+msgid "Override Post Detail"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:32
+msgid "Enable this feature will make PowerPress override post detail with imported podcast when importing podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:44
+msgid "Use Terms Default Image"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:45
+msgid "Enable this feature will make PowerPress use terms default image to imported podcast when importing podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:64
+msgid "Override Post Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/powerpress-settings.php:65
+msgid "Enable this feature will make PowerPress override post category with imported podcast category when importing podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:46
+msgid "Single Podcast Template & Layout Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:55
+msgid "Single Podcast Template"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:56
+msgid "Choose your single podcast template."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:72
+msgid "Single Podcast Layout"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:73
+msgid "Choose your single podcast layout"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:94
+msgid "Single Podcast Element"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:103
+msgid "Show Featured Image"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:104
+msgid "Show featured image single podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:114
+msgid "Show Podcast Meta"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:115
+msgid "Show Podcast meta on podcast aside."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:128
+msgid "Show Podcast Author"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:129
+msgid "Show podcast author on podcast meta container."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:144
+msgid "Show Podcast Author Image"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:145
+msgid "Show podcast author image on podcast meta container."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:167
+msgid "Show Episode Counter"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:168
+msgid "Show or hide episode counter"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:183
+msgid "Show Podcast Meta Option"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:184
+msgid "Show Podcast meta option on podcast aside."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:198
+msgid "Show Subscribe Button"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:199
+msgid "Show subscribe button on option container."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:221
+msgid "Show Share Button"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:222
+msgid "Show share button on option container"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:234
+msgid "Single Podcast Content Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:243, wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodedetail-option.php:42
+msgid "Enable Post Excerpt"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:244, wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodedetail-option.php:43
+msgid "Show post excerpt on this block."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:281
+msgid "Excerpt Ellipsis"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/customizer/sections/template-settings.php:282
+msgid "Define excerpt ellipsis"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:76
+msgid "Number of Podcast"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:77
+msgid "Show number of podcast on this module."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:78, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:91, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:103, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:122, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:159, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:173, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:187, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:200, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:213, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:227, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:240, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:253, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:266, wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:41, wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:51, wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:64, wordpress/jnews-podcast/include/class/module/element/episode/class-episode-option-abstract.php:43, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:51, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:82
+msgid "Content Filter"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:89
+msgid "Podcast Offset"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:90
+msgid "Number of podcast offset (start of content)."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:101, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:80
+msgid "Include into Unique Content Group"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:102, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:81
+msgid "Choose unique content option, and this module will be included into unique content group. It won't duplicate content across the group. Ajax loaded content won't affect this unique content feature."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:106, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:85
+msgid "Disable"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:107, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:86
+msgid "Unique Content - Group 1"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:108, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:87
+msgid "Unique Content - Group 2"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:109, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:88
+msgid "Unique Content - Group 3"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:110, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:89
+msgid "Unique Content - Group 4"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:111, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:90
+msgid "Unique Content - Group 5"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:119
+msgid "Sort by"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:121
+msgid "Sort post by this option<br/>* <strong>View Counter :</strong> Need <strong>JNews View Counter</strong> plugin enabled.<br/>* <strong>Jetpack :</strong> Need <strong>Jetpack</strong> plugin & Stat module enabled.<br/>* Like and share only count real like and share."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:125
+msgid "Latest Episode - Published Date"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:126
+msgid "Latest Episode - Modified Date"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:127
+msgid "Oldest Episode - Published Date"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:128
+msgid "Oldest Episode - Modified Date"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:129, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:55
+msgid "Alphabet Asc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:130, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:56
+msgid "Alphabet Desc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:131
+msgid "Random Episode"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:132
+msgid "Random Episode (7 Days)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:133
+msgid "Random Episode (30 Days)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:134
+msgid "Most Comment"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:135, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:63
+msgid "Most Comment (1 Day - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:136, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:64
+msgid "Most Comment (7 Days - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:137, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:65
+msgid "Most Comment (30 Days - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:138, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:66
+msgid "Popular Episode (1 Day - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:139, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:67
+msgid "Popular Episode (7 Days - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:140, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:68
+msgid "Popular Episode (30 Days - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:141, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:69
+msgid "Popular Episode (All Time - View Counter)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:142, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:70
+msgid "Popular Episode (1 Day - Jetpack)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:143, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:71
+msgid "Popular Episode (7 Days - Jetpack)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:144, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:72
+msgid "Popular Episode (30 Days - Jetpack)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:145, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:73
+msgid "Popular Episode (All Time - Jetpack)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:146
+msgid "Most Like (Thumb up)"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:147
+msgid "Most Share"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:157
+msgid "Include Episode ID"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:158, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:172
+msgid "Tips :<br/> - You can search episode id by inputing title, clicking search title, and you will have your episode id.<br/>- You can also directly insert your episode id, and click enter to add it on the list."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:171
+msgid "Exclude Episode ID"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:185, wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:39
+msgid "Include Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:186, wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:40
+msgid "Choose which category you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:198
+msgid "Exclude Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:199
+msgid "Choose excluded category for this modules."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:211
+msgid "Author"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:212
+msgid "Write to search post author."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:225
+msgid "Include Tags"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:226, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:239
+msgid "Write to search post tag."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:238
+msgid "Exclude Tags"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:251
+msgid "Include Podcast"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:252, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:265
+msgid "Write to search podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:264
+msgid "Exclude Podcast"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:285, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:292, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:299, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:306, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:314, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:321, wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:328
+msgid "Design"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:286
+msgid "Play Button Icon Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:287
+msgid "Change the play button icon color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:293
+msgid "Play / Subscribe Button Text Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:294
+msgid "Change the play button text color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:300
+msgid "Play / Subscribe Button Border Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:301
+msgid "Change the play button border color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:307
+msgid "Play / Subscribe Button Background Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:308
+msgid "Change the play button background color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:315
+msgid "More Button Icon Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:316
+msgid "Change the more button icon color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:322
+msgid "More Button Border Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:323
+msgid "Change the more button border color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:329
+msgid "More Button Background Color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:330
+msgid "Change the more button background color"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:345
+msgid "Title Typography"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:346
+msgid "Set typography for post title"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:355
+msgid "Meta Typography"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-option-abstract.php:356
+msgid "Set typography for post meta"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-view-abstract.php:226
+msgid "Plugin Install"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class-podcast-element-view-abstract.php:226
+msgid "Popular Podcast need JNews - View Counter to be installed"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:18
+msgid "JNews - Podcast Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:49
+msgid "Number of Category"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:50
+msgid "Show number of category on this module."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:62
+msgid "Category Offset"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-option.php:63
+msgid "Number of category offset (start of content)."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/class.jnews-podcast-category-view.php:90
+msgid "Podcasts"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class-episode-option-abstract.php:41
+msgid "Choose Podcast"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class-episode-option-abstract.php:42
+msgid "Choose which podcast you want to show on this module."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-blockepisode1-option.php:17
+msgid "JNews - Podcast Block Episode 1"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-blockepisode2-option.php:17
+msgid "JNews - Podcast Block Episode 2"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodedetail-option.php:24
+msgid "JNews - Episode Detail"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodedetail-option.php:44
+msgid "Content Setting"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodelist-option.php:21
+msgid "JNews - Episode List"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/episode/class.jnews-podcast-episodelist-view.php:84, wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-view-abstract.php:28
+msgid "Episode"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:49
+msgid "Show Base On"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:50
+msgid "Choose how module will show a podcast."
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:54
+msgid "Random"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:57
+msgid "Podcast ID Asc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:58
+msgid "Podcast ID Desc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:59
+msgid "Total Episode Asc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:60
+msgid "Total Episode Desc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:61
+msgid "Include Podcast Option Asc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-option-abstract.php:62
+msgid "Include Podcast Option Desc"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class-podcast-view-abstract.php:66
+msgid "by"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class.jnews-podcast-block1-option.php:19
+msgid "JNews - Podcast Block 1"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class.jnews-podcast-block2-option.php:20
+msgid "JNews - Podcast Block 2"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class.jnews-podcast-block3-option.php:20
+msgid "JNews - Podcast Block 3"
+msgstr ""
+
+#: wordpress/jnews-podcast/include/class/module/element/podcast/class.jnews-podcast-block4-option.php:20
+msgid "JNews - Podcast Block 4"
+msgstr ""

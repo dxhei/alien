@@ -1,0 +1,56 @@
+/** JNews Bookmark CSS */
+
+.jeg_meta_bookmark {
+	width: 20px;
+	text-align: center;
+}
+
+.custom_post_template .jeg_meta_bookmark a {
+	font-size: 16px;
+}
+
+.entry-header .jeg_meta_bookmark a,
+.jeg_account_right .jeg_meta_bookmark a, 
+.custom_post_template .jeg_meta_bookmark a {
+	color: #53585c;
+	font-weight: normal;
+}
+
+.entry-header .jeg_meta_bookmark.clicked:before,
+.jeg_account_right .jeg_meta_bookmark.clicked:before,
+.custom_post_template .jeg_meta_bookmark.clicked:before {
+	content: '';
+	position: absolute;
+	height: 100%;
+	z-index: 99;
+}
+
+.entry-header .jeg_meta_bookmark.clicked>a>i:before,
+.jeg_account_right .jeg_meta_bookmark.clicked>a>i:before,
+.custom_post_template .jeg_meta_bookmark.clicked>a>i:before {
+	content: '\f110';
+}
+
+.alt .entry-header .jeg_meta_bookmark a {
+	color: #fff;
+}
+
+.custom_post_template .jeg_custom_meta_wrapper.jeg_post_meta.alt .jeg_meta_bookmark a {
+	color: #f0f0f0;
+}
+
+.jeg_account_page article.deleted {
+	-webkit-transition: opacity 3s ease-in-out;
+	-moz-transition: opacity 3s ease-in-out;
+	-ms-transition: opacity 3s ease-in-out;
+	-o-transition: opacity 3s ease-in-out;
+	opacity: 0.5;
+}
+
+.jeg_account_page article.added {
+	-webkit-transition: opacity 3s ease-in-out;
+	-moz-transition: opacity 3s ease-in-out;
+	-ms-transition: opacity 3s ease-in-out;
+	-o-transition: opacity 3s ease-in-out;
+	opacity: 1;
+}

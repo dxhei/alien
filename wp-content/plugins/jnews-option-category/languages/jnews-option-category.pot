@@ -1,0 +1,685 @@
+# Copyright (C) 2022 JNews Option Category
+# This file is distributed under the same license as the JNews Option Category package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Option Category\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:358
+msgid "Category Setting"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:427
+msgid "Override Category Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:428
+msgid "Override category general color setting."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:435
+msgid "Category Background Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:436
+msgid "Main color for this category."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:446
+msgid "Category Text Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:447
+msgid "Choose text color for this category."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:460
+msgid "Override Category Setting"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:461
+msgid "Override category general setting."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:468
+msgid "Page Layout"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:469
+msgid "Choose your page layout."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:489
+msgid "Category Template"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:490
+msgid "Choose archive template that you want to use for this category."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:505
+msgid "Number of Post"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:506
+msgid "Set the number of post per page on category page."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:521
+msgid "Category Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:522
+msgid "Choose your category sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:539
+msgid "Second Category Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:540
+msgid "Choose your second sidebar for category page. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:556
+msgid "Category Sticky Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:557
+msgid "Enable sticky sidebar on this category page."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:573, wordpress/jnews-option-category/class.jnews-option-category.php:692
+msgid "Category Header Style"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:574
+msgid "Category header: title and description type."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:591
+msgid "Color Scheme"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:592, wordpress/jnews-option-category/class.jnews-option-category.php:613
+msgid "Choose color for your category title background color."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:596
+msgid "Dark Style"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:597
+msgid "Normal Style (Light)"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:612
+msgid "Title Background Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:629
+msgid "Title Background Image"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:630
+msgid "Choose or upload image for your category background."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:649
+msgid "Show Category Hero Block"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:650
+msgid "Disable this option to hide category hero block."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:660
+msgid "Category Hero Header"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:661
+msgid "Choose your category header (hero)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:693
+msgid "Choose your category header (hero) style."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:717
+msgid "Hero Margin"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:718
+msgid "Margin of each hero element."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:738, wordpress/jnews-option-category/class.jnews-option-category.php:913
+msgid "Choose Date Format"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:739
+msgid "Choose which date format you want to use for category."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:743, wordpress/jnews-option-category/class.jnews-option-category.php:918, wordpress/jnews-option-category/class.jnews-option-category.php:1570
+msgid "Relative Date/Time Format (ago)"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:744, wordpress/jnews-option-category/class.jnews-option-category.php:919, wordpress/jnews-option-category/class.jnews-option-category.php:1571
+msgid "WordPress Default Format"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:745, wordpress/jnews-option-category/class.jnews-option-category.php:920, wordpress/jnews-option-category/class.jnews-option-category.php:1572
+msgid "Custom Format"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:760, wordpress/jnews-option-category/class.jnews-option-category.php:930, wordpress/jnews-option-category/class.jnews-option-category.php:1597
+msgid "Custom Date Format"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:763
+msgid ""
+"Please set custom date format for hero element. For more detail about this format, please refer to\n"
+"                        <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:795
+msgid "Category Content Layout"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:796
+msgid "Choose your category content layout."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:808
+msgid "Enable Boxed"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:809
+msgid "This option will turn the module into boxed."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:841, wordpress/jnews-option-category/class.jnews-option-category.php:879
+msgid "Enable Shadow"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:842, wordpress/jnews-option-category/class.jnews-option-category.php:880
+msgid "Enable shadow on the module template."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:896
+msgid "Excerpt Length"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:897
+msgid "Set the word length of excerpt on post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:914
+msgid "Choose which date format you want to use for category content element."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:933
+msgid ""
+"Please set custom date format for category content element. For more detail about this format, please refer to\n"
+"                                        <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:957
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:958
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:962
+msgid "Normal - Navigation 1"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:963
+msgid "Normal - Navigation 2"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:964
+msgid "Normal - Navigation 3"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:965
+msgid "Ajax - Next Prev"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:966
+msgid "Ajax - Load More"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:967
+msgid "Ajax - Auto Scroll Load"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:977
+msgid "Auto Load Limit"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:978
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:999
+msgid "Pagination Align"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1000
+msgid "Choose pagination alignment."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1004
+msgid "Left"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1005
+msgid "Center"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1020
+msgid "Show Navigation Text"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1021
+msgid "Show navigation text (next, prev)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1037
+msgid "Show Page Info"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1038
+msgid "Show page info text (Page x of y)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1128
+msgid "Override Single Post Option"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1136, wordpress/jnews-option-category/class.jnews-option-category.php:1145
+msgid "Single Blog Post Template"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1146
+msgid "Choose your single blog post template."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1171
+msgid "Custom Single Post Template"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1172
+msgid "Create custom single post template from <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1181
+msgid "Choose Post Template"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1213
+msgid "Single Blog Post Layout"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1214
+msgid "Choose your single blog post layout."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1245
+msgid "Parallax Effect"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1246
+msgid "Turn this option on if you want your featured image to have parallax effect."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1270
+msgid "Fullscreen Featured Image"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1271
+msgid "Turn this option on if you want your post header to have fullscreen image featured."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1298
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1299
+msgid "Choose your single post sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1341
+msgid "Second Single Post Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1342
+msgid "Choose your single post sidebar for the second sidebar. If you need another sidebar, you can create from <strong>WordPress Admin</strong> &raquo; <strong>Appearance</strong> &raquo; <strong>Widget</strong>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1369
+msgid "Single Post Sticky Sidebar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1370
+msgid "Enable sticky sidebar on single post page."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1400
+msgid "Single Post Element"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1412
+msgid "Show Featured Image,Gallery or Video"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1413
+msgid "Show featured image, gallery or video on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1427
+msgid "Show Featured Image"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1428
+msgid "Show featured image on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1444
+msgid "Show Featured Gallery"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1445
+msgid "Show featured gallery on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1461
+msgid "Show Featured Video"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1462
+msgid "Show featured video on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1484
+msgid "Show Post Meta"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1485
+msgid "Show post meta on post header."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1502
+msgid "Show Post Author"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1503
+msgid "Show post author on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1522
+msgid "Show Post Author Image"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1523
+msgid "Show post author image on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1547
+msgid "Show Post Date"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1548
+msgid "Show post date on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1567
+msgid "Post Date Format"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1568
+msgid "Choose which date format you want to use for single post meta."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1598
+msgid ""
+"Please set custom date format for single post meta. For more detail about this format, please refer to\n"
+"										<a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1629
+msgid "Show Category"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1630
+msgid "Show post category on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1649
+msgid "Show Comment Button"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1650
+msgid "Show comment button on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1669
+msgid "Show Reading Time"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1670
+msgid "Show estimate reading time on post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1689
+msgid "Words Per Minute"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1690
+msgid "Set the average reading speed for the user."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1714
+msgid "Show Zoom Button"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1715
+msgid "Show zoom button on the post meta container."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1734
+msgid "Number of Zoom Out Step"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1735
+msgid "Set the number of zoom out step to limit when zoom out button clicked."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1764
+msgid "Number of Zoom In Step"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1765
+msgid "Set the number of zoom in step to limit when zoom in button clicked."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1794
+msgid "Share Position"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1795
+msgid "Choose your share position."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1798
+msgid "Only Top"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1799
+msgid "Only Float"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1800
+msgid "Only Bottom"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1801
+msgid "Top + Bottom"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1802
+msgid "Float + Bottom"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1803
+msgid "Hide All"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1837
+msgid "Float Share Style"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1838
+msgid "Choose your float share style."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1841
+msgid "Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1842
+msgid "Monochrome"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1873
+msgid "Show Share Counter"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1874
+msgid "Show or hide share counter, share counter may be hidden depending on your setup on <strong>Share Position</strong> option above."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1897
+msgid "Show View Counter"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1898
+msgid "Show or hide view counter, view counter may be hidden depending on your setup on <strong>Share Position</strong> option above."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1921
+msgid "Show Post Tag"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1922
+msgid "Show single post tag (below article)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1945
+msgid "Show Prev / Next Post"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1946
+msgid "Show previous or next post navigation (below article)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1969
+msgid "Show Popup Post"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1970
+msgid "Show bottom right popup post widget."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1992
+msgid "Number of Popup Post"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:1993
+msgid "Set the number of post to show when popup post appear."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2025
+msgid "Show Author Box"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2026
+msgid "Show author box (below article)."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2049
+msgid "Show Reading Progress Bar"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2050
+msgid "Show reading progress bar on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2073
+msgid "Progress Bar Position"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2074
+msgid "Choose the position of reading progress bar on single post."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2076
+msgid "Top"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2077
+msgid "Bottom"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2107
+msgid "Progress Bar Color"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2108
+msgid "Set color for the progress bar."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2131
+msgid "Single Thumbnail Setting"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2144
+msgid "Post Thumbnail Size"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2145
+msgid "Choose your post's single image thumbnail size. You can also override this behaviour on your single post editor."
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2148
+msgid "No Crop"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2149, wordpress/jnews-option-category/class.jnews-option-category.php:2169
+msgid "Crop 1/2 Dimension"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2150, wordpress/jnews-option-category/class.jnews-option-category.php:2170
+msgid "Crop Default Dimension"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2165
+msgid "Post Gallery Thumbnail Size"
+msgstr ""
+
+#: wordpress/jnews-option-category/class.jnews-option-category.php:2166
+msgid "Choose your gallery image thumbnail size. You can also override this behaviour on your single post editor."
+msgstr ""
